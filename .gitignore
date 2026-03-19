@@ -1,3 +1,9 @@
+# Canberra Charities Database
+*.db
+*.db-wal
+*.db-shm
+canberra_charities_database.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
